@@ -26,16 +26,16 @@ header).
 
 ## API Documentation
 
-`enum SHT1x::valType {vNone, vTemp, vHumidity};`
+`enum SHT1x::valType {vNone, vTemp, vHumidity};`   
 A definition of the value type returned.
 
-`SHT1x::SHT1x(char dataPin, char clockPin);`
+`SHT1x::SHT1x(char dataPin, char clockPin);`   
 This is the constructor of the interface, set the parameters to your pin numbers.
 
-`char SHT1x::getNextValue(float &cvalue, SHT1x::valType &type);`
+`char SHT1x::getNextValue(float &cvalue, SHT1x::valType &type);`   
 This function trys to get the next alternate value either from the temperature or humidity 
-sensor. On success the current value is stored on the parameter references.
+sensor. On success the current value is stored on the parameter references.   
 Return values: 0=no data available, <0=error, >0=data taken
 
-`float SHT1x::getLastTemp();`
+`float SHT1x::getLastTemp();`   
 Returns the last temperature value, on error this value returns zero.
