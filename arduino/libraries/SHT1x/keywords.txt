@@ -1,0 +1,5 @@
+SHT1x	KEYWORD1
+getNextValue	KEYWORD2
+getLastTemp	KEYWORD2
+vHumidity	KEYWORD2
+vTemp	KEYWORD2
