@@ -1,6 +1,6 @@
 # CodeSnippets
 - Homepage [www.mage-dev.de](http://www.mage-dev.de/)
-- Copyright (c) 2012 Vitalij Mast vitalij-mast(at)mage-dev(dot).de
+- Copyright (c) 2012 Vitalij Mast `vitalij-mast(at)mage-dev(dot).de`
 - License see LICENSE file
 
 # Arduino Librarys
