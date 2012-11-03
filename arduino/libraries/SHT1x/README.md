@@ -1,5 +1,5 @@
 # Library Humidity Sensor sht1x
-Copyright (c) 2012 Vitalij Mast <mailto:vitalij-mast@mage-dev.de>     
+Copyright (c) 2012 Vitalij Mast <mailto:vitalij-mast(at)mage-dev(dot).de>     
 License see LICENSE file in the root folder   
 rev. 1.0
 

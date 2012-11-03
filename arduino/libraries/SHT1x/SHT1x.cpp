@@ -1,7 +1,7 @@
 /**
  * SHT1x Library
  *
- * Copyright 2012 Vitalij Mast <vitali-mast(at)mage-dev(dot).de>
+ * Copyright 2012 Vitalij Mast <vitalij-mast(at)mage-dev(dot).de>
  *
  * Manages communication with SHT1x series (SHT10, SHT11, SHT15)
  * temperature/humidity sensors from Sensirion (www.sensirion.com).
